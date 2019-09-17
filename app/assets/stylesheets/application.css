@@ -10,17 +10,17 @@
  * files in this directory. Styles in this file should be added after the last require_* statement.
  * It is generally better to create a new file per style scope.
  *
- *= reuire bootstrap.css
- *= reuire style.css
- *= reuire font-awesome.min.css
+ *= reuire bootstrap
+ *= reuire style1
+ *= reuire font-awesome.min
  *= reuire owl.carousel.min
  *= reuire simpleLightbox
  *= reuire nice-select
  *= reuire animate
  *= reuire magnific-popup
  *= reuire flaticon
- *= reuire style1
+ *= reuire style
  *= require responsive
  *= require_tree .
- *= require_self
+ * require_self
  */
