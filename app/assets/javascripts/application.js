@@ -26,6 +26,7 @@
 //= require jquery.waypoints.min
 //= require jquery.counterup.min
 //= require mail-script
+//= require gmaps.min
 //= require theme
 //= require turbolinks
 //= require_tree .
