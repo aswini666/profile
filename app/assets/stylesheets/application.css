@@ -22,5 +22,5 @@
  *= reuire style
  *= require responsive
  *= require_tree .
- *= require_self
+ * require_self
  */

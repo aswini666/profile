@@ -29,4 +29,4 @@
 //= require gmaps.min
 //= require theme
 //= require turbolinks
-//= require_tree .
+// require_tree .
